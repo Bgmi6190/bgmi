@@ -34,7 +34,7 @@ def is_within_expiration():
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = '6258485737:AAEve0vut5sJTw4cin8NexE_L-dRcb2ph8A'  # Replace with your actual bot token
+TOKEN = '7485969308:AAGWPtzNxCtcPdB-VR-qdkztwLgS9NLoqnE'  # Replace with your actual bot token
 bot = telebot.TeleBot(TOKEN)  # Initialize the bot
 
 FORWARD_CHANNEL_ID = -1002172184452
